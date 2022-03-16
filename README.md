@@ -1,15 +1,19 @@
-#The Telugu Programming Language
+# The Telugu Programming Language
 
 simple,fast,dynamic programming language.
 
-#Goal
+# Goal
 providing computer programming language access to 700 million people in telugu states. trying to keep language simple ,fast and dynamic.
 
-#Extension
+# Extension
 file extension should be named `.tel` so that telugu compiler will parse and execute it.
 
-#Execution
+# Execution
 you need telugu compiler to execute `.tel`. upon installing Telugu language you will be able to get telugu compiler.
 
-#Download
+# Download
 coming soon.
+
+# Contributions
+Open for contributions.
+drop your suggestions on the PR section so can discuss more.
